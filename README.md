@@ -4,4 +4,4 @@
 
 ## Instruction
 - Left click, hold and drag to draw patterns
-- Press space to start simulate
+- Press space to start or pause the simulation
